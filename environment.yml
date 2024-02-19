@@ -1,0 +1,19 @@
+name: planif_urbaine_sud
+channels:
+  - conda-forge
+dependencies:
+  - contextily
+  - geopandas
+  - geopy
+  - ipykernel
+  - matplotlib
+  - openpyxl
+  - pandas
+  - papermill
+  - pip
+  - pre-commit
+  - python=3.11
+  - seaborn
+  - pip:
+      - jupyter-book
+      - esri2gpd

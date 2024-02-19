@@ -1,0 +1,20 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: notebooks/intro
+parts:
+  - caption: Set up
+    chapters:
+    - file: notebooks/jupyter_install
+    - file: notebooks/rappel_sem2
+  - caption: Week 2 - 28.02.24
+    chapters:
+    - file: notebooks/demo_sem2_0
+    - file: notebooks/demo_sem2_1
+    - file: notebooks/exos_sem2
+    - file: notebooks/demo_sem2_2
+    - file: notebooks/demo_sem2_3
+    - file: notebooks/exos_sem2_2
+    - file: notebooks/exos_corrige_sem2
+    - file: notebooks/exos_corrig2_2
