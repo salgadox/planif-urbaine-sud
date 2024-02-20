@@ -9,11 +9,11 @@ dependencies:
   - matplotlib
   - openpyxl
   - pandas
-  - papermill
   - pip
   - pre-commit
   - python=3.11
   - seaborn
+  - osmnx
   - pip:
       - jupyter-book
       - esri2gpd
