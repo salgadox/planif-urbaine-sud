@@ -17,5 +17,6 @@ parts:
     - file: notebooks/demo_sem2_2
     - file: notebooks/demo_sem2_3
     - file: notebooks/exos_sem2_2
-    # - file: notebooks/exos_corrige_sem2
-    # - file: notebooks/exos_corrig2_2
+    - file: notebooks/exos_corrig2_0
+    - file: notebooks/exos_corrige_sem2
+    - file: notebooks/exos_corrig2_2
