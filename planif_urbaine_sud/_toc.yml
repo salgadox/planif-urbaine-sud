@@ -23,3 +23,5 @@ parts:
   - caption: Week 3 - 06.03.24
     chapters:
     - file: notebooks/demo_sem3_1
+    - file: notebooks/demo_sem3_1_1
+    - file: notebooks/demo_sem3_2
