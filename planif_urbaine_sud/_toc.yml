@@ -20,3 +20,6 @@ parts:
     - file: notebooks/exos_corrig2_0
     - file: notebooks/exos_corrige_sem2
     - file: notebooks/exos_corrig2_2
+  - caption: Week 3 - 06.03.24
+    chapters:
+   - file: notebooks/demo_sem3_1
