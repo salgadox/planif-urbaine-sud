@@ -22,4 +22,4 @@ parts:
     - file: notebooks/exos_corrig2_2
   - caption: Week 3 - 06.03.24
     chapters:
-   - file: notebooks/demo_sem3_1
+    - file: notebooks/demo_sem3_1
